@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Apresentacao.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Empresa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Froiscell</Value>
+    </Setting>
+    <Setting Name="CNPJ" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">17.924.904/0001-06</Value>
+    </Setting>
+    <Setting Name="CelularEmpresa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(11) 96854-7541</Value>
+    </Setting>
+    <Setting Name="TelefoneEmpresa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(11) 4575-2900</Value>
+    </Setting>
+    <Setting Name="EnderecoEmpresa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Av. das Esmeraldas, 448 - Jd. Mutinga</Value>
+    </Setting>
+    <Setting Name="ImpressoraCupom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MP-4200 TH</Value>
+    </Setting>
+    <Setting Name="EmpresaDescricao" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Froiscell - Assistência técnica em celulares</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

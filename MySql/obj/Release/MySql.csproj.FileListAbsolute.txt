@@ -1,0 +1,11 @@
+D:\Projetos\Linocell\MySql\bin\Release\MySql.dll.config
+D:\Projetos\Linocell\MySql\bin\Release\MySql.dll
+D:\Projetos\Linocell\MySql\bin\Release\MySql.pdb
+D:\Projetos\Linocell\MySql\bin\Release\Modelo.dll
+D:\Projetos\Linocell\MySql\bin\Release\MySql.Data.dll
+D:\Projetos\Linocell\MySql\bin\Release\Modelo.pdb
+D:\Projetos\Linocell\MySql\bin\Release\MySql.Data.xml
+D:\Projetos\Linocell\MySql\obj\Release\MySql.csprojResolveAssemblyReference.cache
+D:\Projetos\Linocell\MySql\obj\Release\MySql.csproj.CoreCompileInputs.cache
+D:\Projetos\Linocell\MySql\obj\Release\MySql.dll
+D:\Projetos\Linocell\MySql\obj\Release\MySql.pdb

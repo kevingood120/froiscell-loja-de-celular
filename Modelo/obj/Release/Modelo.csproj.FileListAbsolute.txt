@@ -1,0 +1,5 @@
+D:\Projetos\Linocell\Modelo\bin\Release\Modelo.dll
+D:\Projetos\Linocell\Modelo\bin\Release\Modelo.pdb
+D:\Projetos\Linocell\Modelo\obj\Release\Modelo.csproj.CoreCompileInputs.cache
+D:\Projetos\Linocell\Modelo\obj\Release\Modelo.dll
+D:\Projetos\Linocell\Modelo\obj\Release\Modelo.pdb

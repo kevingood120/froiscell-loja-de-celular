@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apresentacao", "Apresentacao\Apresentacao.csproj", "{2EBB8802-1702-4390-BBA1-B6623626ABF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{F2EA0F4F-398B-47FF-AAD0-1BC085632483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql", "MySql\MySql.csproj", "{F3C131A9-B8D4-4751-8F83-A0DB7CAD7402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EBB8802-1702-4390-BBA1-B6623626ABF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBB8802-1702-4390-BBA1-B6623626ABF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBB8802-1702-4390-BBA1-B6623626ABF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBB8802-1702-4390-BBA1-B6623626ABF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2EA0F4F-398B-47FF-AAD0-1BC085632483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EA0F4F-398B-47FF-AAD0-1BC085632483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EA0F4F-398B-47FF-AAD0-1BC085632483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EA0F4F-398B-47FF-AAD0-1BC085632483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C131A9-B8D4-4751-8F83-A0DB7CAD7402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C131A9-B8D4-4751-8F83-A0DB7CAD7402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C131A9-B8D4-4751-8F83-A0DB7CAD7402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C131A9-B8D4-4751-8F83-A0DB7CAD7402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42D3DEB4-FBDF-4E4A-93FB-C422B1BF28E4}
+	EndGlobalSection
+EndGlobal

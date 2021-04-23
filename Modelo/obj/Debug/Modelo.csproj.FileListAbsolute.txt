@@ -1,0 +1,41 @@
+D:\Projetos\Linocell\Modelo\bin\Debug\Modelo.dll
+D:\Projetos\Linocell\Modelo\bin\Debug\Modelo.pdb
+D:\Projetos\Linocell\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Projetos\Linocell\Modelo\obj\Debug\Modelo.dll
+D:\Projetos\Linocell\Modelo\obj\Debug\Modelo.pdb
+D:\Projetos\Linocell\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\Projetos\Holycell\Modelo\bin\Debug\Modelo.dll
+D:\Projetos\Holycell\Modelo\bin\Debug\Modelo.pdb
+D:\Projetos\Holycell\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Projetos\Holycell\Modelo\obj\Debug\Modelo.dll
+D:\Projetos\Holycell\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Kevin\Desktop\AFUDOS236ES\Holycell\Modelo\bin\Debug\Modelo.dll
+C:\Users\Kevin\Desktop\AFUDOS236ES\Holycell\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Kevin\Desktop\AFUDOS236ES\Holycell\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\AFUDOS236ES\Holycell\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\AFUDOS236ES\Holycell\Modelo\obj\Debug\Modelo.dll
+C:\Users\Kevin\Desktop\AFUDOS236ES\Holycell\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Kevin\Desktop\Holycell\Modelo\bin\Debug\Modelo.dll
+C:\Users\Kevin\Desktop\Holycell\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Kevin\Desktop\Holycell\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\Holycell\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Holycell\Modelo\obj\Debug\Modelo.dll
+C:\Users\Kevin\Desktop\Holycell\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Kevin\Desktop\Nova pasta\Froiscell Loja-1\Modelo\bin\Debug\Modelo.dll
+C:\Users\Kevin\Desktop\Nova pasta\Froiscell Loja-1\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Kevin\Desktop\Nova pasta\Froiscell Loja-1\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\Nova pasta\Froiscell Loja-1\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Nova pasta\Froiscell Loja-1\Modelo\obj\Debug\Modelo.dll
+C:\Users\Kevin\Desktop\Nova pasta\Froiscell Loja-1\Modelo\obj\Debug\Modelo.pdb
+D:\Projetos\Froiscell Versão Final\Modelo\bin\Debug\Modelo.dll
+D:\Projetos\Froiscell Versão Final\Modelo\bin\Debug\Modelo.pdb
+D:\Projetos\Froiscell Versão Final\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+D:\Projetos\Froiscell Versão Final\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Projetos\Froiscell Versão Final\Modelo\obj\Debug\Modelo.dll
+D:\Projetos\Froiscell Versão Final\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Kevin\Desktop\Froiscell Versão Final\Modelo\bin\Debug\Modelo.dll
+C:\Users\Kevin\Desktop\Froiscell Versão Final\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Kevin\Desktop\Froiscell Versão Final\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\Froiscell Versão Final\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Froiscell Versão Final\Modelo\obj\Debug\Modelo.dll
+C:\Users\Kevin\Desktop\Froiscell Versão Final\Modelo\obj\Debug\Modelo.pdb

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <ReportItems>
+          <Subreport Name="ViaCliente">
+            <ReportName>Apresentacao.Relatorios.OrdemServico.rdlc</ReportName>
+            <Parameters>
+              <Parameter Name="Empresa">
+                <Value>=Parameters!Empresa.Value</Value>
+              </Parameter>
+              <Parameter Name="CNPJ">
+                <Value>=Parameters!CNPJ.Value</Value>
+              </Parameter>
+              <Parameter Name="Telefone">
+                <Value>=Parameters!Telefone.Value</Value>
+              </Parameter>
+              <Parameter Name="Endereco">
+                <Value>=Parameters!Endereco.Value</Value>
+              </Parameter>
+              <Parameter Name="Celular">
+                <Value>=Parameters!Celular.Value</Value>
+              </Parameter>
+            </Parameters>
+            <Left>0cm</Left>
+            <Height>3.79cm</Height>
+            <Width>7.5cm</Width>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Subreport>
+          <Subreport Name="ViaCliente2">
+            <ReportName>Apresentacao.Relatorios.OrdemServico.rdlc</ReportName>
+            <Parameters>
+              <Parameter Name="Empresa">
+                <Value>=Parameters!Empresa.Value</Value>
+              </Parameter>
+              <Parameter Name="CNPJ">
+                <Value>=Parameters!CNPJ.Value</Value>
+              </Parameter>
+              <Parameter Name="Telefone">
+                <Value>=Parameters!Telefone.Value</Value>
+              </Parameter>
+              <Parameter Name="Endereco">
+                <Value>=Parameters!Endereco.Value</Value>
+              </Parameter>
+              <Parameter Name="Celular">
+                <Value>=Parameters!Celular.Value</Value>
+              </Parameter>
+            </Parameters>
+            <Top>4.12515cm</Top>
+            <Height>3.79cm</Height>
+            <Width>7.5cm</Width>
+            <ZIndex>1</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Subreport>
+        </ReportItems>
+        <Height>3.1162in</Height>
+        <Style />
+      </Body>
+      <Width>2.95276in</Width>
+      <Page>
+        <PageHeight>29.7cm</PageHeight>
+        <PageWidth>21cm</PageWidth>
+        <LeftMargin>0.35cm</LeftMargin>
+        <RightMargin>0.5cm</RightMargin>
+        <TopMargin>0.5cm</TopMargin>
+        <BottomMargin>0.5cm</BottomMargin>
+        <ColumnSpacing>0.13cm</ColumnSpacing>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParameters>
+    <ReportParameter Name="Empresa">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CNPJ">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Telefone">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Endereco">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Celular">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <ReportParametersLayout>
+    <GridLayoutDefinition>
+      <NumberOfColumns>4</NumberOfColumns>
+      <NumberOfRows>2</NumberOfRows>
+      <CellDefinitions>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>Empresa</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>1</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>CNPJ</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>2</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>Telefone</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>3</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>Endereco</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>1</RowIndex>
+          <ParameterName>Celular</ParameterName>
+        </CellDefinition>
+      </CellDefinitions>
+    </GridLayoutDefinition>
+  </ReportParametersLayout>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>f158d713-32f8-49a5-ba34-2b15647e6b4d</rd:ReportID>
+</Report>
